@@ -16,7 +16,7 @@ Instalasi :
 - Tes jalankan pada browser.
 
 Preview :
-http://imgur.com/a/tN9RN
+- https://youtu.be/4mbPjlV7QxM
 
 Minimum requirements :
 - PHP 5.x
