@@ -1,4 +1,7 @@
 # SPK LOKASI PENDIRIAN HOMESTAY BERBASIS WEB DENGAN METODE NAIVE BAYES CLASSIFIER
+
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+
 SISTEM PENGAMBIL KEPUTUSAN LOKASI PENDIRIAN HOMESTAY BERBASIS WEB DENGAN METODE NAIVE BAYES CLASSIFIER
 
 Aplikasi Sistem Pedukung Keputusan (SPK) LOKASI PENDIRIAN HOMESTAY BERBASIS WEB DENGAN METODE NAIVE BAYES CLASSIFIER berbasis web, menggunakan native PHP5.
