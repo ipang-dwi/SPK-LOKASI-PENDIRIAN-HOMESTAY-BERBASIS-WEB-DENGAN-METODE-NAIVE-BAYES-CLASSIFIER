@@ -1,1 +1,1 @@
-<center>Lakukan donasi untuk file ini.</center>
+<center>Lakukan donasi untuk file ini. Baca di file README di dalam project ini.
