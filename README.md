@@ -1,6 +1,6 @@
 # SPK LOKASI PENDIRIAN HOMESTAY BERBASIS WEB DENGAN METODE NAIVE BAYES CLASSIFIER
 
-<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" /> <img src="https://img.shields.io/badge/need-donation-brightgreen.svg" />
 
 SISTEM PENGAMBIL KEPUTUSAN LOKASI PENDIRIAN HOMESTAY BERBASIS WEB DENGAN METODE NAIVE BAYES CLASSIFIER
 
